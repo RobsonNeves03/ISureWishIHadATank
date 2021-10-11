@@ -1,0 +1,7 @@
+var panzeri = "The Panzer I was a light tank produced in Germany in the 1930s. Its name is short for Panzerkampfwagen I, abbreviated as PzKpfw I. The tank's official German ordnance inventory designation was Sd.Kfz. 101. Design of the Panzer I began in 1932 and mass production began in 1934."
+var panzerii = "The Panzer II is the common name used for a family of German tanks used in World War II. The official German designation was Panzerkampfwagen II. Although the vehicle had originally been designed as a stopgap while larger, more advanced tanks were developed, it nonetheless went on to play an important role in the early years of World War II, during the Polish and French campaigns."
+var panzeriii = "The Panzerkampfwagen III, commonly known as the Panzer III, was a medium tank developed in the 1930s by Germany, and was used extensively in World War II. The official German ordnance designation was Sd.Kfz. 141."
+var panzeriv = "The Panzerkampfwagen IV, commonly known as the Panzer IV, was a German medium tank developed in the late 1930s and used extensively during the Second World War. Its ordnance inventory designation was Sd.Kfz. 161."
+var panzerv = 'The Panther is a German medium tank deployed during World War II on the Eastern and Western Fronts in Europe from mid-1943 to the wars end in 1945. It had the ordnance inventory designation of Sd.Kfz. 171. It was designated as the Panzerkampfwagen V Panther until 27 February 1944, when Hitler ordered that the Roman numeral "V" be deleted.'
+
+export { panzeri, panzerii, panzeriii, panzeriv, panzerv };
