@@ -1,0 +1,10 @@
+.btBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.bt{
+    width: 100px;
+    color: black;
+}
