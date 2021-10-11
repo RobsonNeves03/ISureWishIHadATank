@@ -1,0 +1,44 @@
+body{
+  background-color: #252525;
+  text-align: center;
+}
+
+.desc{
+  color: #e0e0e0;
+  font-size: 40px;
+  font-family: 'Gemunu Libre', sans-serif;
+}
+
+.imgBox{
+  display: flexbox;
+  background-color: #3d3d3dda;
+  height: 540px;
+  width: 1000px;
+  position: absolute;
+  left: 15%;
+  align-items: center;
+  border-top: 80px;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+
+.tnkName{
+  color: #e0e0e0;
+  font-family: 'Bebas Neue';
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+.img{
+  margin-top: 10px;
+  height: 300px;
+  width: 800px;
+}
+
+.descText{
+  color: #e0e0e0;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
