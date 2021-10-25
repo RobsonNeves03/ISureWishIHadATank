@@ -7,7 +7,7 @@ const Routes = () => {
     return(
         <BrowserRouter>
             <Switch>
-                <Route component = {FrontPage} path = '/main'/>
+                <Route component = {FrontPage} path = '/'/>
 
                 <Route component={() => { return <h1>Not Found</h1> }} path="*" />
             </Switch>
